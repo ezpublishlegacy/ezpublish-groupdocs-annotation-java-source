@@ -15,7 +15,7 @@ With GroupDocs Annotation for Java plugin for ezPublish you can easily view on [
 
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Annotation](http://groupdocs.com/apps/Annotation)
+* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs.Annotation for Java Library](http://groupdocs.com/java/document-annotation-library)
 * [See GroupDocs Annotation for Java plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-annotation-java)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
